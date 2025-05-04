@@ -1,9 +1,9 @@
 # Data/Analytics Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, Power BI, Tableau, GCP, DBT
 
 ## Education
-- M.S., Engineering Management | Purdue University (_December 2026)	 			        		
+- M.S., Engineering Management | Purdue University (_December 2026_)	 			        		
 - B.S., Computer Science | Stetson University (_May 2023_)
 
 ## Work Experience
@@ -33,10 +33,10 @@ Fine-tuning a multimodal GenAI model (DALL·E, Imagen) to generate instructional
 learning tools with dynamic content. Accelerating educator content creation and improving student comprehension
 
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Marketing A/B Testing for Zentrik AI
+[Presentation](https://www.canva.com/design/DAGl-F0xkgM/NvTCb6w5GD0dxlusSxpXtg/edit?utm_content=DAGl-F0xkgM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Leading a survey campaign targeting Product Managers to drive awareness and leads for Zentrik AI.
+Running A/B tests on message variations and outreach strategies to optimize adoption and conversion
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
