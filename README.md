@@ -38,5 +38,3 @@ learning tools with dynamic content. Accelerating educator content creation and 
 
 Leading a survey campaign targeting Product Managers to drive awareness and leads for Zentrik AI.
 Running A/B tests on message variations and outreach strategies to optimize adoption and conversion
-
-
