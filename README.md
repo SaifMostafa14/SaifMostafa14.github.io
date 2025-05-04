@@ -1,4 +1,4 @@
-# Data Scientist
+# Data/Analytics Engineer
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
@@ -27,12 +27,11 @@
   
 ## Projects
 ### Generative AI Consultancy for CorpusKey
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Final Presentation](https://purdue0-my.sharepoint.com/:p:/r/personal/jburr_purdue_edu/Documents/MGMT%2065810%20Shared/Corpuskey/CK_Master.pptx?d=w242f154eeb66477c9da84740c902bdc5&csf=1&web=1&e=QLvH4f)
 
 Fine-tuning a multimodal GenAI model (DALL·E, Imagen) to generate instructional visuals, enriching CorpusKey’s
 learning tools with dynamic content. Accelerating educator content creation and improving student comprehension
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
